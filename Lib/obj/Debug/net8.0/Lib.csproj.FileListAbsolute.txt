@@ -1,0 +1,14 @@
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Lib.csproj.AssemblyReference.cache
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Avalonia\resources
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Lib.AssemblyInfoInputs.cache
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Lib.AssemblyInfo.cs
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\bin\Debug\net8.0\Lib.deps.json
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\bin\Debug\net8.0\Lib.dll
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\bin\Debug\net8.0\Lib.pdb
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Avalonia\Lib.dll
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\Avalonia\Lib.pdb
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\refint\Avalonia\Lib.dll
+C:\Users\bhave\OneDrive\Desktop\barc\Lib\obj\Debug\net8.0\ref\Lib.dll

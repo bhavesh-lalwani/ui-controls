@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PkyDJaJl57M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhave\\OneDrive\\Desktop\\barc\\Lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhave\\.nuget\\packages\\avalonia\\11.1.0\\avalonia.11.1.0.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\avalonia.controls.datagrid\\11.1.0\\avalonia.controls.datagrid.11.1.0.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\avalonia.remote.protocol\\11.1.0\\avalonia.remote.protocol.11.1.0.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\bhave\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
